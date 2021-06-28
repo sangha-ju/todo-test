@@ -8,7 +8,6 @@ const TodoHeadBlock = styled.div`
   h1 {
     margin: 0;
     font-size: 21px;
-
     color: #343a40;
   }
 
