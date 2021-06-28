@@ -7,7 +7,7 @@ const GlobalStyle = createGlobalStyle`
  body {
   background-color: #dfe6e9;
 
- }
+  }
 `;
 
 function App() {

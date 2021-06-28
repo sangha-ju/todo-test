@@ -7,14 +7,15 @@ const TodoHeadBlock = styled.div`
 
   h1 {
     margin: 0;
-    font-size: 36px;
+    font-size: 21px;
+
     color: #343a40;
   }
 
   .day {
     margin-top: 4px;
     color: #868e96;
-    font-size: 21px;
+    font-size: 36px;
   }
 
   .task {
